@@ -2,8 +2,8 @@ APP is live and can be accessed [HERE](https://react-tracker-homework.herokuapp.
 
 
   ![](https://avatars1.githubusercontent.com/u/39196696?v=4)
-  # Justin Marchi
-  ### [E-mail Me Here!](Marchij86@gmail.com)
+  # Hailey Parker
+  ### [E-mail Me Here!](Hailey.parker@yahoo.com)
 ---
   # React Employee Tracker
 
