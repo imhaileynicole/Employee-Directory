@@ -54,7 +54,7 @@ GNU General Public License v3.0
   - npm i, npm start
 
 - **How can I contact you if I have any further questions?**
-  - Marchij86@gmail.com
+  - Hailey.parker@yahoo.com
 
 ---
 ## Contributing
