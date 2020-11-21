@@ -5,7 +5,7 @@ function Jumbotron() {
         <div className="jumbotron jumbotron-fluid">
             <div className="container">
                 <h1 className="display-2 text-center">
-                    Employee Tracker
+                    Employee Management Tracker
                 </h1>
             </div>
         </div>
